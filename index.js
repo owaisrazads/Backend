@@ -11,7 +11,7 @@ app.get('/store', (req, res) => {
     res.send('store')
 })
 app.get('/owais', (req, res) => {
-    res.send('Owais')
+    res.send('Muhammad Owais')
 })
 app.get('/haseeb', (req, res) => {
     res.send('Haseeb')
